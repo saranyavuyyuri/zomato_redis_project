@@ -1,0 +1,6 @@
+requests>=2.31.0
+pymongo>=4.6.0
+redis>=5.0.0
+rq>=1.16.0
+streamlit>=1.36.0
+streamlit-autorefresh>=1.0.1
